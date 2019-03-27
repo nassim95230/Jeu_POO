@@ -1,7 +1,6 @@
 # projet slamCrawler
 
-présentation du projet : le but est de réaliser un jeu de rôle permettant un jeu peu massivement multi joueur
-permettant aux étudiants  du bts sio de se divertir pendant les heures de cantine mais surtout d'améliorer leurs compétences en développement.
+présentation du projet : le but est de réaliser un jeu de rôle
 
 Les outils mis en oeuvre :
 * git,
